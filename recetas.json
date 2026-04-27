@@ -1,0 +1,57 @@
+{
+  "recetas": {
+    "receta": [
+      {
+        "$": {
+          "codigo": "1"
+        },
+        "nombre": [
+          "Tortilla"
+        ],
+        "categoria": [
+          "Entrante"
+        ],
+        "tiempo": [
+          "10"
+        ],
+        "dificultad": [
+          "Facil"
+        ]
+      },
+      {
+        "$": {
+          "codigo": "2"
+        },
+        "nombre": [
+          "Carne al toro"
+        ],
+        "categoria": [
+          "Principal"
+        ],
+        "tiempo": [
+          "25"
+        ],
+        "dificultad": [
+          "Dificil"
+        ]
+      },
+      {
+        "$": {
+          "codigo": "3"
+        },
+        "nombre": [
+          "Helado"
+        ],
+        "categoria": [
+          "Postre"
+        ],
+        "tiempo": [
+          "15"
+        ],
+        "dificultad": [
+          "Media"
+        ]
+      }
+    ]
+  }
+}
