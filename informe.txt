@@ -1,0 +1,3 @@
+Para crear el XML y XSD he utilizado el IDE, mientras que para validarlos he utilizado https://www.freeformatter.com/xml-validator-xsd.html
+
+DOOMParser sirve es la forma nativa de JS para parsear (convertir) distintos formatos (como XML -> JSON) a nivel de cliente, no trabajamos directamente con JSON, si no que obtenemos un JSON a partir de otro formato

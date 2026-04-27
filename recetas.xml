@@ -1,20 +1,21 @@
 
-<receta codigo="1">
+<receta codigo="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="recetas.xsd">
 <nombre>Tortilla</nombre>
 <categoria>Entrante<categoria>
-<tiempo>10<tiempo>
+<tiempo>10</tiempo>
 <dificultad>Facil</dificultad>
 </receta>
 <receta codigo="2">
 <nombre>Carne al toro</nombre>
 <categoria>Principal<categoria>
-<tiempo>25<tiempo>
+<tiempo>25</tiempo>
 <dificultad>Dificil</dificultad>
 </receta>
 <receta codigo="3">
 <nombre>Helado</nombre>
 <categoria>Postre<categoria>
-<tiempo>15<tiempo>
+<tiempo>15</tiempo>
 <dificultad>Media</dificultad>
 </receta>
 </recetas>
