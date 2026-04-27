@@ -1,5 +1,4 @@
-<recetas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-            xsi:noNamespaceSchemaLocation="recetas.xsd"> 
+
 <receta codigo="1">
 <nombre>Tortilla</nombre>
 <categoria>Entrante<categoria>
